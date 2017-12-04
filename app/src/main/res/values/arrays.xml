@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="labels">
+        <item>@string/popularity</item>
+        <item>@string/toprating</item>
+    </array>
+    <array name="values">
+        <item>@string/popularity</item>
+        <item>@string/toprating</item>
+    </array>
+</resources>

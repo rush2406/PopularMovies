@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rate">Sort by Rating</string>
+    <string name="pop">Sort by Popularity</string>
+    <string name="sort">Already sorted!</string>
+    <string name="data">No data read</string>
+    <string name="con">No Internet Connectivity</string>
+    <string name="count">Voter Count: </string>
+    <string name="rating">Voter Rating: </string>
+    <string name="over">Overview\n</string>
+    <string name="release">Release Date: </string>
+    <string name="movie">Movie</string>
+    <string name="sortby">Sort by</string>
+    <string name="sorting" translatable="false">sort</string>
+    <string name="popularity" translatable="false">Popularity</string>
+    <string name="title">Title: </string>
+    <string name="toprating">Rating</string>
+    <string name="apipop" translatable="false">"https://api.themoviedb.org/3/movie/popular?api_key=7af039a2f1db2dbe51c2c40bbf7c50b</string>
+    <string name="apitop" translatable="false">https://api.themoviedb.org/3/movie/top_rated?api_key=7af039a2f1db2dbe51c2c40bbf7c50b3</string>
+    <string name="position" translatable="false">position</string>
+    <string name="passed" translatable="false">Passed</string>
+    <string name="yes" translatable="false">yes</string>
+    <string name="added">Added to Favorites</string>
+    <string name="add">Add to Favorites</string>
+    <string name="notrailer">No trailer Available</string>
+    <string name="noreview">No review Available</string>
+    <string name="failed">Failed</string>
+    <string name="delete">Removed from Favorites</string>
+    <string name="del">Remove from favorites</string>
+    <string name="popmovies">Popular Movies</string>
+    <string name="tr1">Trailer 1</string>
+    <string name="tr2">Trailer 2</string>
+    <string name="tr3">Trailer 3</string>
+    <string name="review">View Review</string>
+</resources>
