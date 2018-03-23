@@ -182,9 +182,9 @@ public class MainActivity extends AppCompatActivity implements MovieAdapter.List
         if (s.equals(getString(R.string.sorting))) {
             String value = sharedPreferences.getString(getString(R.string.sorting), getString(R.string.popularity));
             if (value.equals(getString(R.string.popularity)))
-                API_STRING = "https://api.themoviedb.org/3/movie/popular?api_key=7af039a2f1db2dbe51c2c40bbf7c50b3";
+                API_STRING = "https://api.themoviedb.org/3/movie/popular?api_key=API_KEY";
             else
-                API_STRING = "https://api.themoviedb.org/3/movie/top_rated?api_key=7af039a2f1db2dbe51c2c40bbf7c50b3";
+                API_STRING = "https://api.themoviedb.org/3/movie/top_rated?api_key=API_KEY";
             getSupportLoaderManager().restartLoader(LOADER_ID, null, this);
         }
 
