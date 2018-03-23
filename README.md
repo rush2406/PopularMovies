@@ -27,6 +27,10 @@ git status
 
 ```
 
+## Generate API Key
+
+Register at https://www.themoviedb.org/account/signup and generate API Key, then replace 'API_KEY' in the Main Activity file.
+
 ## Screenshots
 ![screenshot_20180323-191343](https://user-images.githubusercontent.com/29939341/37832576-013776c8-2ecf-11e8-9513-3ec52702adb6.png)
 
