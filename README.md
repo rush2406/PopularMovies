@@ -32,7 +32,18 @@ git status
 
 
 
+
+
+
+
+
+
 ![screenshot_20180323-191422](https://user-images.githubusercontent.com/29939341/37832904-fbd3df40-2ecf-11e8-9f79-e23cd3de9473.png)
+
+
+
+
+
 
 
 
@@ -43,7 +54,19 @@ git status
 
 
 
+
+
+
+
+
+
 ![screenshot_20180323-191353](https://user-images.githubusercontent.com/29939341/37832911-feaeacc2-2ecf-11e8-820d-46c5cdf94eb0.png)
+
+
+
+
+
+
 
 
 
