@@ -32,7 +32,7 @@ git status
 Register at https://www.themoviedb.org/account/signup and generate API Key, then replace 'API_KEY' in the Main Activity file.
 
 ## Screenshots
-![screenshot_20180323-191343](https://user-images.githubusercontent.com/29939341/37832576-013776c8-2ecf-11e8-9513-3ec52702adb6.png)
+<img src = "https://user-images.githubusercontent.com/29939341/37832576-013776c8-2ecf-11e8-9513-3ec52702adb6.png" width=300 height=auto>
 
 
 
@@ -42,7 +42,7 @@ Register at https://www.themoviedb.org/account/signup and generate API Key, then
 
 
 
-![screenshot_20180323-191422](https://user-images.githubusercontent.com/29939341/37832904-fbd3df40-2ecf-11e8-9f79-e23cd3de9473.png)
+<img src="https://user-images.githubusercontent.com/29939341/37832904-fbd3df40-2ecf-11e8-9f79-e23cd3de9473.png" width=300 height=auto>
 
 
 
@@ -51,20 +51,7 @@ Register at https://www.themoviedb.org/account/signup and generate API Key, then
 
 
 
-
-![screenshot_20180323-191436](https://user-images.githubusercontent.com/29939341/37833076-64fe3268-2ed0-11e8-8fd8-cb9e74eb3cfb.png)
-
-
-
-
-
-
-
-
-
-
-
-![screenshot_20180323-191353](https://user-images.githubusercontent.com/29939341/37832911-feaeacc2-2ecf-11e8-820d-46c5cdf94eb0.png)
+<img src="https://user-images.githubusercontent.com/29939341/37833076-64fe3268-2ed0-11e8-8fd8-cb9e74eb3cfb.png" width=300 height=auto>
 
 
 
@@ -76,4 +63,16 @@ Register at https://www.themoviedb.org/account/signup and generate API Key, then
 
 
 
-![screenshot_20180323-191444](https://user-images.githubusercontent.com/29939341/37832917-03892966-2ed0-11e8-83f4-44f86beee98d.png)
+<img src="https://user-images.githubusercontent.com/29939341/37832911-feaeacc2-2ecf-11e8-820d-46c5cdf94eb0.png" width=300 height=auto>
+
+
+
+
+
+
+
+
+
+
+
+<img src=https://user-images.githubusercontent.com/29939341/37832917-03892966-2ed0-11e8-83f4-44f86beee98d.png width=300 height=auto>
